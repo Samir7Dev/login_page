@@ -27,7 +27,7 @@ Please check (https://samir7dev.github.io/login_page/) to see an example usage.
 
 ## Stay in touch
 
-* Author - [Samir Oliveira](https://github.com/Samir7Dev/))
+* Author - [Samir Oliveira](https://github.com/Samir7Dev/)
 * E-mail - (Breve)
 
 ## License
