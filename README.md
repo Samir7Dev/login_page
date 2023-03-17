@@ -1,6 +1,6 @@
 <p align="center">
   <a href="(https://github.com/Samir7Dev/)" target="blank">
-    <img src="file:///S:/Downloads/2250207-removebg-preview.png" width="120" alt="Logo" />
+    <img src="[file:///S:/Downloads/2250207-removebg-preview.png](https://cdn-icons-png.flaticon.com/512/2250/2250207.png)" width="120" alt="Logo" />
   </a>
 </p>
 
