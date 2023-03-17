@@ -24,7 +24,6 @@ Please check (https://samir7dev.github.io/login_page/) to see an example usage.
 ## Contributing
 
 ## Acknowledgments
-Special thanks to [@mrdiniz88](https://github.com/mrdiniz88) for inspiration.
 
 ## Stay in touch
 
