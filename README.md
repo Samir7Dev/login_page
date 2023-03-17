@@ -1,12 +1,12 @@
 <p align="center">
-  <a href="https://github.com/playwa/playwa" target="blank">
+  <a href="(https://github.com/Samir7Dev/)" target="blank">
     <img src="https://avatars.githubusercontent.com/u/118643349" width="120" alt="Logo" />
   </a>
 </p>
 
 <p align="center">
   <p align="center">
-   Lightweight and powerfull framework to jumpstart your <a href="http://web.whatsapp.com/" target="blank">Whatsapp</a> applications (node.js)
+   Login Page
     <br/>
     <br/>
   </p>
@@ -32,28 +32,13 @@ Please check (https://samir7dev.github.io/login_page/) to see an example usage.
 
 ## Contributing
 
-Want to contribute? Great!
-
-To fix a bug or enhance an existing module, follow these steps:
-
-* Fork the repo
-* Create a new branch (`git checkout -b improve-feature`)
-* Make the appropriate changes in the files
-* Add changes to reflect the changes made
-* Commit your changes (`git commit -am 'Improve feature'`)
-* Push to the branch (`git push origin improve-feature`)
-* Create a Pull Request
-
-Help us keep **playwa** open and inclusive. Please read and follow our [Code of Conduct](https://github.com/playwa/playwa/blob/main/CODE_OF_CONDUCT.md).
-
 ## Acknowledgments
 Special thanks to [@mrdiniz88](https://github.com/mrdiniz88) for inspiration.
 
 ## Stay in touch
 
-* Author - [Natan Rodrigues](https://github.com/Nata4n)
-* E-mail - [eusounatan@proton.me](mailto:eusounatan@proton.me)
+* Author - [Samir Oliveira](https://github.com/Samir7Dev/))
+* E-mail - (Breve)
 
 ## License
 
-Distributed under the GNU 3.0 License. See [LICENSE](https://github.com/playwa/playwa/blob/main/LICENSE) for more information.
