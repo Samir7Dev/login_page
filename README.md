@@ -12,15 +12,6 @@
   </p>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Samir7Dev/" target="_blank">
-    <img src="https://github.com/Samir7Dev?tab=stars" alt="Stargazers" />
-  </a>
-  <a href="https://github.com/Samir7Dev/" target="_blank">
-    <img src="https://github.com/Samir7Dev?tab=stars" alt="Issues" />
-  </a>
-</p>
-
 ## Description
 
 I do some coding like developing front end. If you want to use any of the codes, feel free.
