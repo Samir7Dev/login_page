@@ -23,12 +23,12 @@
 
 ## Description
 
-Playwa is a open source project and a excellent way, if you want an easy start on getting commands and interactions. Perfect for building efficient and scalable [Whatsapp](https://web.whatsapp.com) applications (Node.js).
+I do some coding like developing front end. If you want to use any of the codes, feel free.
 
-Built with [TypeScript](http://www.typescriptlang.org/) and based on [@nestjs](https://github.com/nestjs/nest) framework. Under the hood, playwa directly uses **websocket**, saving like half a gig of ram. Also, provides compatibility with a wide range of other libraries and many built-in features, allowing for easy use of third-party plugins which are avaliable.
+This is an initial login screen for your panel/system
 
 ## Example
-Please check [@playwa/example](https://github.com/playwa/example) to see an example usage.
+Please check (https://samir7dev.github.io/login_page/) to see an example usage.
 
 ## Contributing
 
