@@ -1,6 +1,6 @@
 <p align="center">
   <a href="(https://github.com/Samir7Dev/)" target="blank">
-    <img src="(https://img.shields.io/badge/login%20page-05b526?style=for-the-badge&logo=acess&logoColor=black)" width="120" alt="Logo" />
+    <img src="(https://ps.w.org/login-customizer/assets/icon-128x128.png?rev=2455454)" width="120" alt="Logo" />
   </a>
 </p>
 
