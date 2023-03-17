@@ -14,10 +14,10 @@
 
 <p align="center">
   <a href="https://github.com/Samir7Dev/" target="_blank">
-    <img src="https://img.shields.io/github/stars/playwa/playwa" alt="Stargazers" />
+    <img src="https://github.com/Samir7Dev?tab=stars" alt="Stargazers" />
   </a>
   <a href="https://github.com/Samir7Dev/" target="_blank">
-    <img src="https://img.shields.io/github/issues/playwa/playwa" alt="Issues" />
+    <img src="https://github.com/Samir7Dev?tab=stars" alt="Issues" />
   </a>
 </p>
 
